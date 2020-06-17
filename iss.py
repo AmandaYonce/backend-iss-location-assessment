@@ -15,7 +15,7 @@ indy_coords = [39.76838, -86.15804]
 def get_user_location():
     """gets the coords of the users location"""
     g = geocoder.ip('me')
-    print(g.latlng)
+    print(f'Users current location is {g.latlng}')
     return g.latlng
 
 

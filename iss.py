@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-__author__ = 'Amanda Yonce and Stack Overflow for geocoder user location\
+__author__ = 'Amanda Yonce & Stack Overflow for geocoder user location\
      and python docs for turtle stuff'
 
 import geocoder
